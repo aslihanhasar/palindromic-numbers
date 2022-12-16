@@ -13,7 +13,7 @@ of that number is equal to the original number.
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/palindomic-numbers.git
+> https://github.com/miyendisa/palindromic-numbers.git
 
 ---
 
